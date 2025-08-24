@@ -32,7 +32,12 @@
 >
 > **Nome do livro:** *Fundamentos da Programação de Computadores – 2012, de Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos.*
 
+---
 
+## 💻 Linguagem e Ambiente
+
+- **Linguagem:** Java  
+- **IDE:** Eclipse  
 
 ---
 
@@ -75,3 +80,4 @@
 │   │
 │   └── README.md
 └── README.md
+
