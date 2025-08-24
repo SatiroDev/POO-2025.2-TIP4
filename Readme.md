@@ -36,8 +36,16 @@
 
 ## 💻 Linguagem e Ambiente
 
-- **Linguagem:** Java  
-- **IDE:** Eclipse  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" /><br>
+  <strong>Linguagem utilizada:</strong> Java
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" /><br>
+  <strong>IDE utilizada:</strong> Eclipse
+</p>
+
 
 ---
 
@@ -80,4 +88,5 @@
 │   │
 │   └── README.md
 └── README.md
+
 
