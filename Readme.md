@@ -58,7 +58,8 @@
 ## 🗂 Estrutura do Repositório
 
 ```text
-.
+
+POO-2025.2-TIP4/
 │
 ├── Lista-01/
 │   ├── Exercicios-Resolvidos/
@@ -95,6 +96,7 @@
 │   └── README.md
 └── README.md
 ```
+
 
 
 
