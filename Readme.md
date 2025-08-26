@@ -48,9 +48,9 @@
 
 ---
 
-## 🔗 Repositórios Relacionados
-- [Versão do José Satiro](https://github.com/SatiroDev)
-- [Versão do Luís Wagner](https://github.com/colarin/POO-2025.2-T1P4)
+## 🔗 Repositórios da Dupla
+- [José Satiro](https://github.com/SatiroDev)
+- [Luis Wagner](https://github.com/colarin)
 
 
 ---
@@ -94,6 +94,7 @@
 │   │
 │   └── README.md
 └── README.md
+```
 
 
 
