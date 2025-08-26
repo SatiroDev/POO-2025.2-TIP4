@@ -49,7 +49,7 @@
 ---
 
 ## 🔗 Repositórios Relacionados
-- [Versão do José Satiro](https://github.com/SatiroDev/POO-2025.2-TIP4)
+- [Versão do José Satiro](https://github.com/SatiroDev)
 - [Versão do Luís Wagner](https://github.com/colarin/POO-2025.2-T1P4)
 
 
@@ -94,6 +94,7 @@
 │   │
 │   └── README.md
 └── README.md
+
 
 
 
