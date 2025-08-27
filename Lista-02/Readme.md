@@ -135,7 +135,7 @@ Menu de opções:
 > Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a
 mensagem de aprovado ou reprovado, considerando para aprovação média 7. 
 
-*(ainda não resolvido — será implementado futuramente)*  
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Exercicios-Propostos/Q01/src/br/edu/principal/Principal.java)
 
 ---
 
@@ -149,21 +149,22 @@ na tabela a seguir:
 | 3,0 – 6,99        | Exame      |
 | 7,0 – 10,0       | Aprovado   |
 
-*(ainda não resolvido — será implementado futuramente)*  
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Exercicios-Propostos/Q02/src/br/edu/principal/Principal.java)
 
 ---
 
 ### Questão 3  
-> Faça um programa que receba dois números e mostre o menor.  
-
-*(ainda não resolvido — será implementado futuramente)*  
+> Faça um programa que receba dois números e mostre o menor.
+> 
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Exercicios-Propostos/Q03/src/br/edu/principal/Principal.java)
 
 ---
 
 ### Questão 4  
 > Faça um programa que receba três números e mostre o maior.  
 
-*(ainda não resolvido — será implementado futuramente)*  
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Exercicios-Propostos/Q04/src/br/edu/principal/Principal.java) 
+
 ---
 
 ### Questão 5  
@@ -180,6 +181,7 @@ do usuário.
 Se a opção digitada for inválida, mostre uma mensagem de erro e termine a execução do programa.
 Lembre-se de que, na operação 4, o segundo número deve ser diferente de zero.  
 
-*(ainda não resolvido — será implementado futuramente)*  
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Exercicios-Propostos/Q05/src/br/edu/principal/Principal.java) 
 
 ---
+
