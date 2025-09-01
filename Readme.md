@@ -48,7 +48,7 @@
 
 ---
 
-## 🔗 Repositórios da Dupla
+## 🔗 Perfis da Dupla
 - [José Satiro](https://github.com/SatiroDev)
 - [Luis Wagner](https://github.com/colarin)
 
