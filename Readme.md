@@ -75,27 +75,49 @@ POO-2025.2-TIP4/
 │   └── README.md
 │
 ├── Lista-02/
-│   ├── Exercicios-Resolvidos/
-│   │   ├── Q01/
-│   │   ├── Q02/
-│   │   ├── ... Q10/
-│   │
-│   ├── Exercicios-Propostos/
-│   │   ├── Q01/
-│   │   ├── Q02/
-│   │   ├── ... Q05/
-│   │
-│   └── README.md
+│   ├── Cap04/
+│   │    ├── Exercicios-Resolvidos/
+│   │    │   ├── Q01/
+│   │    │   ├── Q02/
+│   │    │   ├── ... Q10/
+│   │    │
+│   │    ├── Exercicios-Propostos/
+│   │    │   ├── Q01/
+│   │    │   ├── Q02/
+│   │    │   ├── ... Q05/
+│   │    │
+│   │    └── README.md 
+│   └── Cap05/
+│        ├── Exercicios-Resolvidos/
+│        │   ├── Q01/
+│        │   ├── Q02/
+│        │   ├── ... Q10/
+│        │ 
+│        ├── Exercicios-Propostos/
+│        │   ├── Q01/
+│        │   ├── Q02/
+│        │   ├── ... Q05/
+│        │
+│        └── README.md
 │
 ├── Lista-03/
-│   ├── Exercicios-Resolvidos/
-│   │   ├── Q01/
-│   │   ├── Q02/
-│   │   ├── ... Q10/
-│   │
-│   └── README.md
+│   ├── Cap06/
+│   │    ├── Exercicios-Resolvidos/
+│   │    │   ├── Q01/
+│   │    │   ├── Q02/
+│   │    │   ├── ... Q10/
+│   │    │
+│   │    └── README.md
+│   └── Cap08/
+│        ├── Exercicios-Resolvidos/
+│        │   ├── Q01/
+│        │   ├── Q02/
+│        │   ├── ... Q10/
+│        │
+│        └── README.md
 └── README.md
 ```
+
 
 
 
