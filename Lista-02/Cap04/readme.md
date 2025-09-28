@@ -1,5 +1,5 @@
 
-# 📘 Lista 2 – Exercícios de Programação
+# 📘 Lista 2 - Capítulo 04 – Exercícios de Programação
 
 Este repositório contém a resolução da **Lista 2 de exercícios de programação**, divididos em duas partes:  
 
