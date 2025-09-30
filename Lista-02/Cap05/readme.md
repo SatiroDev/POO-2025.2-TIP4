@@ -85,7 +85,7 @@ d) Calcule o valor do auxílio alimentação recebido pelo funcionário de acord
 > e) Mostre o código, número de horas trabalhadas, valor da hora trabalhada, salário inicial, auxílio alimentação
 e salário final (salário inicial + auxílio alimentação).
 
-*(ainda não resolvido — será implementado futuramente)*  
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Cap05/Exercicios-Resolvidos/Q06/src/br/edu/principal/Principal.java)
 
 ---
 
@@ -93,7 +93,7 @@ e salário final (salário inicial + auxílio alimentação).
 > Faça um programa que monte os oito primeiros termos da sequência de Fibonacci. <br>
 0-1-1-2-3-5-8-13-21-34-55...
 
-*(ainda não resolvido — será implementado futuramente)*  
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Cap05/Exercicios-Resolvidos/Q07/src/br/edu/principal/Principal.java) 
 
 ---
 
