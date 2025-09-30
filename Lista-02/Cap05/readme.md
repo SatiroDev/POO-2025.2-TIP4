@@ -122,7 +122,7 @@ Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 ■ o total de alunos reprovados;<br>
 ■ a média da classe.
 
-*(ainda não resolvido — será implementado futuramente)*  
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Cap05/Exercicios-Resolvidos/Q09/src/br/edu/principal/Principal.java) 
 
 ---
 
@@ -133,7 +133,7 @@ Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 ■ a média das alturas de todos os jogadores do campeonato; e<br>
 ■ a porcentagem de jogadores com mais de 80 kg entre todos os jogadores do campeonato.
 
-*(ainda não resolvido — será implementado futuramente)*  
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Cap05/Exercicios-Resolvidos/Q10/src/br/edu/principal/Principal.java)  
 
 ---
 
@@ -142,7 +142,7 @@ Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 ### Questão 1  
 > Faça um programa que leia cinco grupos de quatro valores (A, B, C, D) e mostre-os na ordem lida. Em seguida, organize-os em ordem crescente e decrescente.
 
-*(ainda não resolvido — será implementado futuramente)*  
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Cap05/Exercicios-Propostos/Q01/src/br/edu/principal/Principal.java)  
 
 ---
 
@@ -150,7 +150,7 @@ Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 > Uma companhia de teatro deseja montar uma série de espetáculos. A direção calcula que, a
 R$ 5,00 o ingresso, serão vendidos 120 ingressos, e que as despesas serão de R$ 200,00. Diminuindo-se em R$ 0,50 o preço dos ingressos, espera-se que as vendas aumentem em 26 ingressos. Faça um programa que escreva uma tabela de valores de lucros esperados em função do preço do ingresso, fazendo-se variar esse preço de R$ 5,00 a R$ 1,00, de R$ 0,50 em R$ 0,50. Escreva, ainda, para cada novo preço de ingresso, o lucro máximo esperado, o preço do ingresso e a quantidade de ingressos vendidos para a obtenção desse lucro.
 
-*(ainda não resolvido — será implementado futuramente)*  
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Cap05/Exercicios-Propostos/Q02/src/br/edu/principal/Principal.java)  
 
 ---
 
@@ -169,7 +169,7 @@ c) a porcentagem de pessoas na última faixa etária com relação ao total de p
 | 5ª           | Acima de 60 anos   |
 
 
-*(ainda não resolvido — será implementado futuramente)*  
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Cap05/Exercicios-Propostos/Q03/src/br/edu/principal/Principal.java)   
 
 ---
 
@@ -189,14 +189,14 @@ Digite um número: 5 <br>
 5 × 9 = 45<br>
 5 × 10 = 50
 
-*(ainda não resolvido — será implementado futuramente)*  
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Cap05/Exercicios-Propostos/Q04/src/br/edu/principal/Principal.java)  
 
 ---
 
 ### Questão 5  
 > Faça um programa que mostre as tabuadas dos números de 1 a 10.
 
-*(ainda não resolvido — será implementado futuramente)*  
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Cap05/Exercicios-Propostos/Q05/src/br/edu/principal/Principal.java)   
 
 ---
 
