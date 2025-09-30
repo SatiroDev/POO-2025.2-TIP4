@@ -14,7 +14,7 @@ Este repositório contém a resolução de exercícios de programação dividido
 ### Questão 1  
 > Faça um programa contendo uma sub-rotina que retorne 1 se o número digitado for positivo ou 0 se for negativo.
 
-🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-03/Cap08/Exercicios-Resolvidos/Q01/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-03/Exercicios-Resolvidos/Q01/src/br/edu/principal/Principal.java)
 
 ---
 
