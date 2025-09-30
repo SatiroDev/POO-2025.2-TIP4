@@ -102,7 +102,7 @@ e salário final (salário inicial + auxílio alimentação).
 a seguir: <br>
 Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 
-*(ainda não resolvido — será implementado futuramente)*  
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Cap05/Exercicios-Resolvidos/Q08/src/br/edu/principal/Principal.java) 
 
 ---
 
