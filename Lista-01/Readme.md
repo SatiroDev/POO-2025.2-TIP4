@@ -1,4 +1,4 @@
-# 📘 Exercícios de Programação
+# 📘 Lista 1 - Exercícios de Programação
 
 Este repositório contém a resolução de exercícios de programação divididos em duas partes:  
 
@@ -74,5 +74,6 @@ Este repositório contém a resolução de exercícios de programação dividido
 🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-01/Exercicios-Propostos/Q05/src/br/edu/principal/Principal.java)
 
 ---
+
 
 
