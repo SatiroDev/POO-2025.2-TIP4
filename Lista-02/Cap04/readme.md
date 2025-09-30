@@ -126,7 +126,7 @@ Menu de opções:
 - mês (inteiro)  
 - ano (inteiro)  
 
-*(ainda não resolvido — será implementado futuramente)*  
+🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-02/Cap04/Exercicios-Resolvidos/Q10/src/br/edu/principal/Principal.java)
 
 ---
 
