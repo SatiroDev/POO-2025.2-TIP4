@@ -1,9 +1,11 @@
 
 # 📘 Lista 3 -  Exercícios de Programação
 
-Este repositório contém a resolução da **Lista 3 de exercícios de programação**, divididos em duas partes:  
+Este repositório contém a resolução de exercícios de programação divididos em duas partes:  
 
-- **Exercícios Resolvidos**: apresentam a solução dos problemas utilizando **algoritmos em pseudocódigo**.  
+- **Exercícios Resolvidos**: apresentam a solução dos problemas utilizando **algoritmos em pseudocódigo**, descrevendo passo a passo como resolver cada questão.  
+- **Exercícios Propostos**: contêm apenas o **enunciado** dos problemas, sem a resolução, servindo como prática para o aluno.  
+
 
 ---
 
