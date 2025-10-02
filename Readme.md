@@ -20,9 +20,8 @@
 - **Exercícios:** 1º ao 10º (**Resolvidos**) e 1º ao 5º (**Propostos**) **em cada capítulo**
 
 ### LISTA-03
-- **Cap. 06 – Vetor**
 - **Cap. 08 – Sub-rotina**
-- **Exercícios:** 1º ao 10º (**Resolvidos**) **em cada capítulo**
+- **Exercícios:** 1º ao 10º (**Resolvidos**) e 1º ao 5º (**Propostos**)**
 
 > **Observação:**  
 > - **Exercícios Resolvidos** = exercícios já acompanhados de **algoritmo/modelo** no próprio material.  
@@ -113,6 +112,7 @@ POO-2025.2-TIP4/
 │   │
 │   └── README.md
 ```
+
 
 
 
